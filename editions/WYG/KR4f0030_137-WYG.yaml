@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4f0030/WYG/v1/juan/137
+seq: 137
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0030_WYG_137-1a, image: WYG1321/WYG1321-0444a.png}
+body:
+  text: 西河集卷一百三十七翰林院檢討毛奇齡撰擬連廂詞應刪西河集巻一百三十七
+  hash: sha256:642515dae3a2147bea2509056530b28e814c07c9cb93c7ebdd243b2a02c086ac
+metadata:
+  title: 西河集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:29:27.256502'
+  juan_title: 卷一百三十七
+  source:
+    repository: kanripo
+    path: KR4f0030/KR4f0030_137.txt
+hash: sha256:bc14b828c563d466f38cf172c957750f57d8d4861c29f644d2e15d829b5e966f
