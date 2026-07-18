@@ -24,6 +24,7 @@ markers:
   - {type: line-break, offset: 18, content: '', id: KR4f0030_WYG_157-1a04}
   - {type: indent, offset: 18, content: 　　, id: KR4f0030_krp_157-bkkind3}
   - {type: punctuation, offset: 22, content: (, id: KR4f0030_krp_157-bkkpn1}
+  - {type: voice, offset: 22, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 23, content: /, id: KR4f0030_krp_157-bkkpn2}
   - {type: punctuation, offset: 23, content: ), id: KR4f0030_krp_157-bkkpn3}
   - {type: 'kr:newline', offset: 23, content: '
@@ -226,6 +227,7 @@ markers:
   - {type: line-break, offset: 669, content: '', id: KR4f0030_WYG_157-3a08}
   - {type: indent, offset: 669, content: 　　　, id: KR4f0030_krp_157-bkkind9}
   - {type: punctuation, offset: 673, content: (, id: KR4f0030_krp_157-bkkpn4}
+  - {type: voice, offset: 673, length: 2, name: note, id: n2}
   - {type: substitution, offset: 674, original: 叙, replacement: 敘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16962}}
   - {type: punctuation, offset: 675, content: /, id: KR4f0030_krp_157-bkkpn5}
   - {type: punctuation, offset: 675, content: ), id: KR4f0030_krp_157-bkkpn6}
@@ -1119,6 +1121,7 @@ markers:
   - {type: line-break, offset: 3843, content: '', id: KR4f0030_WYG_157-14a01}
   - {type: indent, offset: 3843, content: 　　　, id: KR4f0030_krp_157-bkkind31}
   - {type: punctuation, offset: 3847, content: (, id: KR4f0030_krp_157-bkkpn7}
+  - {type: voice, offset: 3847, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3849, content: /, id: KR4f0030_krp_157-bkkpn8}
   - {type: punctuation, offset: 3849, content: ), id: KR4f0030_krp_157-bkkpn9}
   - {type: 'kr:newline', offset: 3849, content: '
@@ -1289,4 +1292,4 @@ markers:
 
       ', id: KR4f0030_krp_157-bkkkrnewl269}
   back: []
-hash: sha256:cc2f4b4a20930a437d32104f0ff5f6a3428bfd92ff804451ee1f150e05a131b0
+hash: sha256:442381ecc0cdd463b15433ca6e8fb5f21db27d838f53f30ff3b53c614cdfa2f4
